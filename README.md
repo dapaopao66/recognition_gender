@@ -15,5 +15,5 @@
 ### 4.查看训练结果
 执行 image_show.py
 
-可以在我的网站上试试：[我的网站](http://www.aidump.com/CoolImage/GuessGender) 试一试结果 
+可以访问网站试试：[www.aidump.com](http://www.aidump.com/CoolImage/GuessGender) 试一试结果 
 可能是训练数据样本集不多的原因，正确率不是很高，可通过增加样本集，增加训练次数来提高正确率
